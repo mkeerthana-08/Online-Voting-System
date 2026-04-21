@@ -80,6 +80,35 @@ npm run dev
 - Backend: `http://localhost:5000`
 - Health API: `http://localhost:5000/api/health`
 
+## Screenshots
+
+The project screenshots are stored in the repository and displayed below.
+
+### Landing Page
+
+![Landing Page](Online%20voting%20system%20ss/Screenshot%202026-04-21%20132412.png)
+
+### Register Page
+
+![Register Page](Online%20voting%20system%20ss/Screenshot%202026-04-21%20134831.png)
+
+### Login Page
+
+![Login Page](Online%20voting%20system%20ss/Screenshot%202026-04-21%20135019.png)
+
+### OTP / Verification Flow
+
+![OTP Flow](Online%20voting%20system%20ss/Screenshot%202026-04-21%20135355.png)
+![OTP Flow](Online%20voting%20system%20ss/Screenshot%202026-04-21%20135409.png)
+
+### User Dashboard
+
+![User Dashboard](Online%20voting%20system%20ss/Screenshot%202026-04-21%20135523.png)
+
+### Admin Dashboard
+
+![Admin Dashboard](Online%20voting%20system%20ss/Screenshot%202026-04-21%20141718.png)
+
 ## Default Flow
 
 1. Register a user/admin account.
