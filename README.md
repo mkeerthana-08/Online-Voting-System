@@ -86,7 +86,7 @@ The project screenshots are stored in the repository and displayed below.
 
 ### Landing Page
 
-![Landing Page](Online%20voting%20system%20ss/Screenshot%202026-04-21%20132412.png)
+![Landing Page](Online%20voting%20system%20ss/Screenshot%202026-04-21%20141718.png)
 
 ### Register Page
 
@@ -107,7 +107,7 @@ The project screenshots are stored in the repository and displayed below.
 
 ### Admin Dashboard
 
-![Admin Dashboard](Online%20voting%20system%20ss/Screenshot%202026-04-21%20141718.png)
+![Admin Dashboard](Online%20voting%20system%20ss/Screenshot%202026-04-21%20132412.png)
 
 ## Default Flow
 
